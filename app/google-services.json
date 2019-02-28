@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55031265180",
+    "firebase_url": "https://chainofcustody-ad41c.firebaseio.com",
+    "project_id": "chainofcustody-ad41c",
+    "storage_bucket": "chainofcustody-ad41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55031265180:android:c80e86503b128bfe",
+        "android_client_info": {
+          "package_name": "com.nathann.com.cyrptochainofcustody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55031265180-9u47o844se1rt79lnerh5rs1mfv0apij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nathann.com.cyrptochainofcustody",
+            "certificate_hash": "afb803216d8a3f9b541811c4da305f327cc7a8d9"
+          }
+        },
+        {
+          "client_id": "55031265180-jv7cfsrk47n1fbv9npq8rh9pasr91t7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwRTYoSPeCHgyYY2swVia9-Je7ITov8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55031265180-jv7cfsrk47n1fbv9npq8rh9pasr91t7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
